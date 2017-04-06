@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bidang jasa="JNE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="tugas.xsd">
+	<nama>Sabda Alamsyah</nama>
+	<kode>1</kode>
+	<tanggal>06-04-2017</tanggal>
+	<jenispengiriman>yes</jenispengiriman>
+	<harga>RP: 10000</harga>
+	<jeniskelamin>Laki Laki</jeniskelamin>
+	<email>alamsyahsabda1832@gmail.com</email>
+	<kontak>081214419139</kontak>
+	<alamatpengirim nama="Bandung"></alamatpengirim>
+	<alamatpenerima nama="Tasikmalaya">
+		<alamat>jl. BKR no.54 Tasikmalaya</alamat>
+	</alamatpenerima>
+	
+	<nama>Diana Satima</nama>
+	<kode>2</kode>
+	<tanggal>12-04-2017</tanggal>
+	<jenispengiriman>ok</jenispengiriman>
+	<harga>RP: 150000</harga>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<email>dianasatima@gmail.com</email>
+	<kontak>082321485543</kontak>
+	<alamatpengirim nama="Banjar"></alamatpengirim>
+	<alamatpenerima nama="Pangandaran">
+		<alamat>jl. pangandarana no.67</alamat>
+	</alamatpenerima>
+	
+	<nama>Indah Rahma</nama>
+	<kode>3</kode>
+	<tanggal>15-04-2017</tanggal>
+	<jenispengiriman>ok</jenispengiriman>
+	<harga>RP: 150000</harga>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<email>indah@gmail.com</email>
+	<kontak>083321945621</kontak>
+	<alamatpengirim nama="Cirebon"></alamatpengirim>
+	<alamatpenerima nama="sukabumi">
+		<alamat>jl. palangkritis no.123</alamat>
+	</alamatpenerima>
+	
+	<nama>Yusri Rizal</nama>
+	<kode>4</kode>
+	<tanggal>19-04-2017</tanggal>
+	<jenispengiriman>yes</jenispengiriman>
+	<harga>RP: 10000</harga>
+	<jeniskelamin>Laki Laki</jeniskelamin>
+	<email>yusririzal18@gmail.com</email>
+	<kontak>0812566543218</kontak>
+	<alamatpengirim nama="Cianjur"></alamatpengirim>
+	<alamatpenerima nama="sukabumi">
+		<alamat>jl. pahlawan no.2</alamat>
+	</alamatpenerima>
+	
+	<nama>Tias</nama>
+	<kode>5</kode>
+	<tanggal>29-04-2017</tanggal>
+	<jenispengiriman>yes</jenispengiriman>
+	<harga>RP: 10000</harga>
+	<jeniskelamin>Laki Laki</jeniskelamin>
+	<email>tiasmaaulana@gmail.com</email>
+	<kontak>085222485623</kontak>
+	<alamatpengirim nama="Tanggerang"></alamatpengirim>
+	<alamatpenerima nama="Bandung">
+		<alamat>jl. Bandung no.2</alamat>
+   </alamatpenerima>
+</Bidang>
